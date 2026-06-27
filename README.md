@@ -1,14 +1,13 @@
-[RAWAT_GYM_README.md](https://github.com/user-attachments/files/29409479/RAWAT_GYM_README.md)
-
- 🏋️ Rawat Gym Website
+🏋️ Rawat Gym Website
 
 ## 📸 Screenshots
-
--   Home Page
 -   Services
+  
 -   Imported Machines
 -   Membership Plans
 -   Information Form
+![Uploading form.png…]()
+
 
 ## 📖 Overview
 

@@ -1,14 +1,10 @@
 🏋️ Rawat Gym Website
 
 ## 📸 Screenshots
--   Services
-  
 -   Imported Machines
 -   Membership Plans
 -   Information Form
-![Uploading form.png…]()
-
-
+    
 ## 📖 Overview
 
 The Rawat Gym Website is a simple fitness website built using HTML and
@@ -22,7 +18,6 @@ Rawat-Gym/
 ├── index.html
 ├── gym.webp
 ├── README.md
-└── LICENSE
 ```
 
 ## ✨ Key Features
@@ -50,10 +45,6 @@ Clone the repository and open `index.html` in your browser.
 -   Login System
 -   Online Registration
 -   Dark Mode
-
-## 📄 License
-
-MIT License
 
 ## 👨‍💻 About
 
